@@ -1,0 +1,2 @@
+# app_qrcodes
+iOS和Android使用同一个二维码自动跳转不同下载页面链接
